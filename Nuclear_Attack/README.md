@@ -18,7 +18,7 @@ podría ser la clave para desactivar un ataque nuclear no muy lejano, pero neces
 ### Pistas
 Pista|Coste
 ---|---|
-PGP/MIME... Habrá que buscar su clave pública en los keyservers?|5p|
+PGP/MIME... Habrá que buscar su clave pública en los keyservers?|15p|
 Factorizar su módulo... o ya lo habrá hecho alguien?|15p|
 ---
 
