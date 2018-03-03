@@ -11,4 +11,4 @@ Q#| Pregunta | Respuesta
 **Q7**|Grandma COBOL. [Apellido]|Hopper
 **Q8**|Radia Perlman nos libró de bucles infinitos en Internet. ¿Cuáles son las siglas del protocolo que inventó?|STP
 **Q9**|Si alguien sabe de seguridad y virtualización es la autora de Blue Pill y creadora de Qube OS. [Apellido]|Rutkowska
-**Q10**|El WiFi con el que te conectas a esta prueba a sido posible gracias a esta actriz. [Apellido]|Lamarr
+**Q10**|El WiFi con el que te conectas a esta prueba ha sido posible gracias a esta actriz. [Apellido]|Lamarr
